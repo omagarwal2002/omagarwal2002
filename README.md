@@ -23,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
+---
+
+### :hammer_and_wrench: Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omagarwal2002&theme=dark)](https://git.io/streak-stats)
 
