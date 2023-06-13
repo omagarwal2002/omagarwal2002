@@ -1,12 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/om-agarwal-063404210/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -23,7 +14,11 @@
 - 🌱 I’m currently learning Computer Science <br>
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP. <br>
 - 📫 How to reach me : 500087764@stu.upes.ac.in 
-
+<div id="badges" align = "left">
+  <a href="https://www.linkedin.com/in/om-agarwal-063404210/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
