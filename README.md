@@ -18,7 +18,7 @@
 
 ---
 
-### :hammer_and_wrench: About me :
+### 👨‍💻: About me :
 <div>
 - 👋 Hi, I’m @omagarwal2002 
 - 👀 I’m interested in Machine Learning 
