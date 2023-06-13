@@ -13,8 +13,7 @@
 - 👀 I’m interested in Machine Learning <br>
 - 🌱 I’m currently learning Computer Science <br>
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP. <br>
-- 📫 How to reach me : 500087764@stu.upes.ac.in 
-  <br>
+- 📫 How to reach me : 500087764@stu.upes.ac.in   <br>
 <div id="badges" align = "left">
   <a href="https://www.linkedin.com/in/om-agarwal-063404210/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
