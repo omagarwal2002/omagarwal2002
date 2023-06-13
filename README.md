@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻: About me :
+### 👨‍💻 About me :
 <div>
 - 👋 Hi, I’m @omagarwal2002 
 - 👀 I’m interested in Machine Learning 
@@ -39,7 +39,7 @@
 
 ---
 
-### :hammer_and_wrench: Github Stats :
+### 📊 Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omagarwal2002&theme=dark)](https://git.io/streak-stats)
 
