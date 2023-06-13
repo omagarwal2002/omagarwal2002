@@ -19,9 +19,9 @@
 ### 👨‍💻 About me :
 <div>
 - 👋 Hi, I’m @omagarwal2002 <br>
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP. 
+- 👀 I’m interested in Machine Learning <br>
+- 🌱 I’m currently learning Computer Science <br>
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP. <br>
 - 📫 How to reach me : 500087764@stu.upes.ac.in 
 
 ---
