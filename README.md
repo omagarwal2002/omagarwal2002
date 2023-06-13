@@ -34,8 +34,9 @@
 ---
 
 ### 📊 Github Stats :
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagarwal2002&theme=chartreuse-dark&show_icons=true)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omagarwal2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omagarwal2002&theme=chartreuse-dark&show_icons=true)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=omagarwal2002&theme=dark)](https://git.io/streak-stats)
