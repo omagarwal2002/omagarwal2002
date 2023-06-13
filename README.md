@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  Hi! I am Om Agarwal
+  Hey! I am Om Agarwal
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
